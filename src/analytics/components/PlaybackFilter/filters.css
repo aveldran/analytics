@@ -1,0 +1,14 @@
+.filters .filter-btn {
+	border: 2px solid #333333;
+	display: inline-block;
+	border-radius: 4px;
+}
+
+.filters .filter-btn:hover {
+	cursor: pointer;
+}
+
+.filters .filter-btn.active {
+	background: #5077A6;
+	color: #FFFFFF;
+}
